@@ -43,3 +43,6 @@ Thumbs.db
 
 #plugins
 /plugins
+
+#build
+/www/build
